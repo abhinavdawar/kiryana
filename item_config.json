@@ -1,0 +1,26 @@
+[
+    {
+        "name": "Mustard 1 L",
+        "isactive": true,
+        "quantity": 200,
+        "product": "Mustard"
+    },
+    {
+        "name": "Mustard 500 ml",
+        "isactive": true,
+        "quantity": 150,
+        "product": "Mustard"
+    },
+    {
+        "name": "Potato 1 Kg",
+        "isactive": true,
+        "quantity": 250,
+        "product": "Vegetable"
+    },
+    {
+        "name": "Tomato 1 Kg",
+        "isactive": true,
+        "quantity": 280,
+        "product": "Vegetable"
+    }
+]

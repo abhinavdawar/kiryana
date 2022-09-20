@@ -1,0 +1,12 @@
+[
+    {
+        "name": "Vegetable",
+        "isactive": true,
+        "category": "Other"
+    },
+    {
+        "name": "Mustard",
+        "isactive": true,
+        "category": "Oil"
+    }
+]

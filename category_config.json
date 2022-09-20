@@ -1,0 +1,26 @@
+[
+    {
+        "name": "Oil",
+        "isactive": true
+    },
+    {
+        "name": "Ghee",
+        "isactive": false
+    },
+    {
+        "name": "Spices",
+        "isactive": false
+    },
+    {
+        "name": "Flour",
+        "isactive": false
+    },
+    {
+        "name": "Seeds",
+        "isactive": false
+    },
+    {
+        "name": "Other",
+        "isactive": true
+    }
+]
